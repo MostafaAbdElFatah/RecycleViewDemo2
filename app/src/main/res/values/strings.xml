@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">RecycleViewDemo2</string>
+    <string-array name="Countries" >
+        <item>Country:Saudi Arabia السعودية</item>
+        <item>Country:Algeria الجزائر</item>
+        <item>Country:Comoros جزر القمر</item>
+        <item>Country:Djibouti جيبوتى</item>
+        <item>Country:Egypt مصر</item>
+        <item>Country:Libya ليبيا</item>
+        <item>Country:Mauritania موريتانيا</item>
+        <item>Country:Morocco المغرب</item>
+        <item>Country:Somalia الصومال</item>
+        <item>Country:Sudan السودان</item>
+        <item>Country:Tunisia تونس</item>
+        <item>Country:Bahrain البحرين</item>
+        <item>Country:Iraq العراق</item>
+        <item>Country:Palestine فلسطين</item>
+        <item>Country:Jordan الأردن</item>
+        <item>Country:Kuwait الكويت</item>
+        <item>Country:Lebanon لبنان</item>
+        <item>Country:Oman عمان</item>
+        <item>Country:Qatar قطر</item>
+        <item>Country:Syria سوريا</item>
+        <item>"Country:United Arab Emirates\n الإمارات العربية المتحدة"</item>
+        <item>اليمن Country:Yemen</item>
+    </string-array>
+    <string-array name="Capital_Cities">
+        <item>Capital City:Riyadh الرياض</item>
+        <item>Capital City:Algiers الجزائر</item>
+        <item>Capital City:Moroni مورونى</item>
+        <item>Capital City:Djibouti جيبوتى</item>
+        <item>Capital City:Cairo القاهرة</item>
+        <item>Capital City:Tripoli طرابلس</item>
+        <item>Capital City:Nouakchott نواكشوط</item>
+        <item>Capital City:Rabat الرباط</item>
+        <item>Capital City:Mogadishu مقديشو</item>
+        <item>Capital City:Khartoum الخرطوم</item>
+        <item>Capital City:Tunis تونس</item>
+        <item>Capital City:Manama المنامة</item>
+        <item>Capital City:Baghdad بغداد</item>
+        <item>Capital City:Ramallah رام الله</item>
+        <item>Capital City:Amman عُمان</item>
+        <item>Capital City:Kuwait City مدينة الكويت</item>
+        <item>Capital City:Beirut بيروت</item>
+        <item>Capital City:Muscat مسقط</item>
+        <item>Capital City:Doha الدوحة</item>
+        <item>Capital City:Damascus دمشق</item>
+        <item>Capital City:Abu Dhabi أبو ظبى</item>
+        <item>"Capital City:Sana&apos;a صنعاء"</item>
+    </string-array>
+</resources>
